@@ -56,8 +56,9 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern React web apps for commercial
-          businesses.
+          a Front-End Developer specializing in ReactJS. I love creating
+          responsive, user-friendly web applications with a keen eye for design
+          and functionality.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
